@@ -40,7 +40,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/Samarth622/School-ERP.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -55,7 +55,7 @@ Create a file called .env in the backend folder.
 Inside it write this :
 
 ```sh
-MONGO_URL = mongodb://127.0.0.1/school
+MONGO_URL = your mongodb connection string
 ```
 If you are using MongoDB Compass you can use this database link but if you are using MongoDB Atlas then instead of this link write your own database link.
 
